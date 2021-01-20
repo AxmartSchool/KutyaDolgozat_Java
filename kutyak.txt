@@ -1,0 +1,11 @@
+magyar vizsla;szuka;3;Bodri
+magyar vizsla;szuka;4;Csonti
+magyar vizsla;szuka;2;Kormos
+magyar vizsla;szuka;1;Füles
+bernáthegyi;kan;3;Rex
+puli;kan;4;Ede
+csivava;kan;2;Szafari
+erdélyi kopó;kan;6;Bende
+német agár;kan;5;Barnat
+tacskó;szuka;8;Zsani
+angol bulldog;kan;3;Megyeri
